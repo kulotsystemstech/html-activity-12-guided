@@ -26,7 +26,6 @@ We will leave [comments](https://www.w3schools.com/html/html_comments.asp) for t
     <title>FreeTunes</title>
 </head>
 <body>
-
     <div class="header" align="center">
         <h1>
             FreeTunes
