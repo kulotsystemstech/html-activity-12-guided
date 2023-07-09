@@ -3,8 +3,13 @@
 .DS_Store
 /src/audio/*
 !/src/audio/calm-background-for-video.mp3
+!/src/audio/calm-background-for-video.ogg
 !/src/audio/chill-abstract-intention.mp3
+!/src/audio/chill-abstract-intention.ogg
 !/src/audio/embrace.mp3
+!/src/audio/embrace.ogg
 !/src/audio/lofi-chill.mp3
+!/src/audio/lofi-chill.ogg
 !/src/audio/relaxed-vlog-night-street.mp3
+!/src/audio/relaxed-vlog-night-street.ogg
 /src/index-final.html
