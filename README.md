@@ -177,7 +177,7 @@ We will leave [comments](https://www.w3schools.com/html/html_comments.asp) for t
 
 ### Defining Audio Elements
 To define an audio element in HTML, we use the `<audio>` tag.
-Inside it, we nest one or more self-closing `<source>` tags - each has
+Inside it, we nest one or more self-closing `<source/>` tags - each has
 `src` attribute that contains the URL or path of the audio file of the specified `type`.
 
 Example:
